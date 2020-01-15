@@ -1,0 +1,205 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "reference": "d571732126dccaa4",
+            "subject": "social media",
+            "question": "Tinder a inventé le...",
+            "answers": [
+                {"id": 1, "answer": "Les réseaux sociaux", "score": 0},
+                {"id": 2, "answer": "Le dating entre hommes et femmes", "score": 0},
+                {"id": 3, "answer": "Le swipe", "score": 20},
+                {"id": 4, "answer": "Meetic", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 2,
+            "reference": "1845527037ed693a",
+            "subject": "social media",
+            "question": "Snapchat a inventé...",
+            "answers": [
+                {"id": 1, "answer": "Les stories", "score": 20},
+                {"id": 2, "answer": "La timeline non chronologique", "score": 0},
+                {"id": 3, "answer": "La fonctionnalité j'aime avec un coeur", "score": 0},
+                {"id": 4, "answer": "La vidéo sur téléphone", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 3,
+            "reference": "4784b6ecda42bdf8",
+            "subject": "social media",
+            "question": "En quel année Instagram ont-ils copié les stories de Snapchat ?",
+            "answers": [
+                {"id": 1, "answer": 2006, "score": 0},
+                {"id": 2, "answer": 2001, "score": 0},
+                {"id": 3, "answer": 2009, "score": 20},
+                {"id": 4, "answer": 2005, "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 4,
+            "reference": "999f58741bbf115f",
+            "subject": "social media",
+            "question": "Parmis les features suivantes, lesquelles sont des actuelles features des stories Instagram ?",
+            "answers": [],
+            "tag": "social-media"
+        },
+        {
+            "id": 5,
+            "reference": "04afccbd2a2613b0",
+            "subject": "social media",
+            "question": "Qu'est-ce qu'un tweet ?",
+            "answers": [
+                {"id": 1, "answer": "Un text de 280 charactères envoyé sur Twitter", "score": 0},
+                {"id": 2, "answer": "Un text qui peut faire 280 et envoyé sur le Twitter", "score": 0},
+                {"id": 3, "answer": "Un text court au format SMS envoyé sur Twitter", "score": 0},
+                {"id": 4, "answer": "Un text de 280 charactères composé ou non de hashtags envoyé sur Twitter", "score": 20}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 6,
+            "reference": "14fa5465e29e602d",
+            "subject": "social media",
+            "question": "Quel est la longueur maximale d'un tweet ?",
+            "answers": [
+                {"id": 1, "answer": "entre 1 et 280 charactères", "score": 0},
+                {"id": 2, "answer": "280 charactères", "score": 20},
+                {"id": 3, "answer": "140 charactères", "score": 0},
+                {"id": 4, "answer": "Illimité", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 7,
+            "reference": "470029ca0f550246",
+            "subject": "social media",
+            "question": "Peut-on faire des stories sur YouTube ?",
+            "answers": [
+                {"id": 1, "answer": "Vrai", "score": 20},
+                {"id": 2, "answer": "Faux", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 8,
+            "reference": "03f562b400ddf0f9",
+            "subject": "social media",
+            "question": "Peut-on vendre de la marchandise sur YouTube ?",
+            "answers": [
+                {"id": 1, "answer": "Vrai", "score": 20},
+                {"id": 2, "answer": "Faux", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 9,
+            "reference": "d58a1de9b1bb53ab",
+            "subject": "social media",
+            "question": "Comment les YouTubeurs appellent-ils la marchandise qu'ils mettent en vente sur la plateforme ?",
+            "answers": [
+                {"id": 1, "answer": "Merch", "score": 20},
+                {"id": 2, "answer": "Marchandises", "score": 0},
+                {"id": 3, "answer": "Lélés", "score": 0},
+                {"id": 4, "answer": "Merchandise", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 10,
+            "reference": "943a1548433aee48",
+            "subject": "social media",
+            "question": "EnjoyPhoenix est une \"YouTubeuse\" et \"influenceuse\". Quel est la différence entre ces deux termes ?",
+            "answers": [
+                {"id": 1, "answer": "Une influenceuse est une sous catégorie de Youtubeuse", "score": 0},
+                {"id": 2, "answer": "Une Youtubeuse fait des vidéos. Une influenceuse fait des photos.", "score": 0},
+                {"id": 3, "answer": "L'influenceuse possède plus de 2 millions de followers sur tous les réseaux sociaux", "score": 0},
+                {"id": 4, "answer": "Aucune", "score": 20}
+
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 11,
+            "reference": "2a459110f6deda7f",
+            "subject": "social media",
+            "question": "Qu'est-ce qu'une influenceuse ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Elle influence les non-consommateurs relatifs a acheté des produits qu'ils ne veulent pas acheter", "score": 0},
+                {"id": 4, "answer": "Une personne qui créer et détruit les tendance dans la société", "score": 0}
+
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 12,
+            "reference": "bba8e9b787315af7",
+            "subject": "social media",
+            "question": "Vous êtes YouTubeur et vous créer du contenu pour les femmes, 18-35 et qui aiment la mode. Ces critères correspond à votre...",
+            "answers": [
+                {"id": 1, "answer": "cible", "score": 20},
+                {"id": 2, "answer": "positionnement", "score": 0},
+                {"id": 3, "answer": "zone de chalandise", "score": 0},
+                {"id": 4, "answer": "valeur ajoutée", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 13,
+            "reference": "3f89d0404e1fbb23",
+            "subject": "social media",
+            "question": "Vous êtes YouTubeur et vous êtes connu pour être spécialiste du maquillage nude. Cela correspond à votre...",
+            "answers": [
+                {"id": 1, "answer": "Cible", "score": 0},
+                {"id": 2, "answer": "Expertise", "score": 0},
+                {"id": 3, "answer": "Positionnement", "score": 20},
+                {"id": 4, "answer": "Spécialité", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 14,
+            "reference": "efb717b9dc256308",
+            "subject": "social media",
+            "question": "Vous êtes YouTubeur et par rapport à la concurrence, vous proposer du maquillage pour peaux noires mais surtout vous vous filmez en pleine nature. Cela correspond à votre...",
+            "answers": [
+                {"id": 1, "answer": "Touche personnelle", "score": 0},
+                {"id": 2, "answer": "Valeur ajoutée", "score": 20},
+                {"id": 3, "answer": "Positionnement", "score": 0},
+                {"id": 4, "answer": "Dynamique cinématograhique", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 15,
+            "reference": "22fe1d1acc9c3ccc",
+            "subject": "social media",
+            "question": "Si en plus de proposer des vidéos maquillage, vous faites des vlogs, cela correspond à votre...",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "Offre support", "score": 20},
+                {"id": 3, "answer": "Valeur ajouté", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "social-media"
+        },
+        {
+            "id": 16,
+            "reference": "5dcb9450e7b2d179",
+            "subject": "social media",
+            "question": "Dans toute vos vidéos, vous traduisez par example ce vous dites en texte pour les internationaux. Cela correspond à un service...",
+            "answers": [
+                {"id": 1, "answer": "Sourds et malentendants", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "Facilitateur", "score": 20}
+            ],
+            "tag": "social-media"
+        }
+    ]
+}

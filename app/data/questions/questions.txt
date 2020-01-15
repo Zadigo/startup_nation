@@ -2,7 +2,9 @@ Un CTO est un...
 Un CEO est un...
 Un CMO est un...
 Un CFO est un...
+Vous êtes un c-level. Autrement dit, vous êtes:
 Une startup est une...
+Quel est la différence intrèseque entre le customer success et le service client ou après-vente?
 
 
 Un MVP est un...
@@ -39,6 +41,9 @@ Si on vous dit que Docker est un conteneur, selon-vous que peut-il contenir ?
 Blablacar a été fondé en...
 Free a été fondé en...
 Facebook a été fondé en...
+Comment s'appelle de fondateur de Aliexpress ?
+Qui a fondé la startup déchue Theranos?
+Qui a fondé We Work ?
 Qui a fondé Blablacar ?
 Qui a fondé Free ?
 Qui a fondé Facebook ?
@@ -50,10 +55,13 @@ Instagram appartient à Facebook ?
 Yahoo a refusé d'acheté Google en ???? ?
 Amazon lance des magazins sans caisses. Comment s'appelle-t-ils ?
 Station F a été crée en ... par ... RE: [2000 - Xavier Niel,]
+Comment s'appelle la marque de cosmétique créée par Kylie Jenner ?
+X, la marque créée par Kylie Jenner a été racheté par...
 
 
 Quel est le nom français pour IPO ?
 Comment appelle-t-on une entrée en bourse ?
+On vous dit que le Vision Fund de X vous serait utile pour le round A de votre startup. Comment s'appelle le fond d'investissement qui possède ce portefeuille ?
 
 
 Qu'est-ce qu'une Landing page ?
@@ -61,7 +69,7 @@ Ce tag HTML '<a></a>' détermine un...
 Ce tag HTML '<main></main>' détermine un...
 Ce tag HTML '<iframe></iframe>' détermine un...
 A quel language correspond cette structure de code :
-    def structure(*args, **kwargs):
+    def function(*args, **kwargs):
         pass
 
 A quel language correspond cette structure de code :
@@ -103,11 +111,23 @@ A quel language correspond cette structure de code :
         }
     }
 
-A quel language(s) correspond cette structure de code:
+A quel language, utile en SEO, correspond cette structure de code:
+    {
+        "schema": "...",
+        @tag: {
+            "...": "..."
+        }
+    }
+
+A quel framework(s) correspond cette structure de code:
     <template>
         ...
     <template/>
 
+A quel framework correspond cette structure de code:
+    var app = new Vue({
+        ...
+    })
 
 Vous devez ajouter un balise ID dans un lien pour afin de générer un évènement dans Google Tag Manager pour votre site internet. Quel est la solution ? <a id="..."></a>
 Qu'est-ce que Google Tag Manager ?
@@ -115,14 +135,15 @@ Qu'est-ce que Google Analytics ?
 Qu'est-ce que Google Optimizer ?
 Qu'est-ce qu'un plan media ?
 Qu'est-ce que Google Datastudio ?
-Pour un projet de groupe, vous avez mis en place GTM. Vous voyez ceci:
+Pour un projet de groupe, vous avez mis en place un GTM. Vous voyez ceci:
     {
         event: click,
         link: http://www.mon_projet.com/a_propos
     }
-Selon-vous, que s'est-il passé ?
+    Selon-vous, que s'est-il passé ?
 
 
+On vous donne ceci "GTM-XXXXX" a intégré dans l'entête HTML. De quoi s'agit-il ?
 Selon-vous à quoi correspond le terme "acquisition" dans Google Analytics ?
 Qu'est-ce que le terme "conversion" dans Google Analytics ?
 Vous étiez sur http://www.une-adresse.com. En cliquant sur un lien vous vous êtes retrouver sur http://www.une-autre-adresse.com. A quoi correspond la première adresse ? RE: lien référent
@@ -133,7 +154,7 @@ Vous êtes sur site e-commerce et vous suivez le parcours suivant 'produits > pr
 Votre taux de conversion est de -2.5% et on vous demande de l'inverser. Parmis les options suivantes que feriez-vous ?
 Votre taux d'acquisition est de 2.5% et on vous demande de l'accroitre. Parmis les options suivantes que feriez-vous ?
 Qu'est-ce que le taux de rebond dans Google Analytics ?
-Un patron vous dit qu'il a taux de rebond de 73%. Que lui conseilleriez-vous ?
+Un patron vous dit qu'il a un taux de rebond global de 73%. Que lui conseilleriez-vous ?
 Comment appelle-t-on le fait qu'un utilisateur va sur site et en sort immédiatement ? taux de rebond
 Selon-vous quel est la différence entre un "utilisateur" et une "session" dans Analytics ?
 A quoi correspond l'élément  "UA-XXXX" dans un script HTML ?
@@ -149,6 +170,7 @@ Vous avez vendu 1000€ de marchandises en 2018. On vous dit que votre multiplic
 Un stage de 2 mois est payant ?
 Je peux recruter un stagiaire pour 3 ans ?
 Un stage peut être alterné ?
+Je peux virer un stagiaire s'il n'a pas fait son travail correctement ?
 
 
 Qu'est-ce qu'une IAE ?
@@ -165,6 +187,7 @@ Amazon organize chaque année des soldes qui s'appellent... Amazon Prime Day
 Citer au moins une entreprise de trotinnette électique à Paris ?
 Quel est la vitesse maximale d'une trotinnette électrique à Paris ?
 Elon Musk a créer un lance-flamme qu'il avait mit en vente sur Twitter. Comment s'appelle-t-il ?
+Tesla a lancé en grande pompe un utilitaire qui a fait beaucoup parlé. Comment s'appelle-t-il ?
 
 
 Tinder a inventé le... swipe
@@ -274,8 +297,9 @@ Qu'est-ce qu'un fichier RB ?
 Qu'est-ce qu'un fichier Vue ?
 
 Votre patron vous demande de mettre en place des "zaps" dans le processus de son entreprise. De quoi parle-t-il ?
-A quoi peut servir IFTT ?
+A quoi peut servir IFTTT ?
 On vient de vous "slacker" au travail. Que vous a-t-on fait ?
+Microsoft Teams est un concurrent de...
 
 En utilisant Zapier, vous monter un bouton zap qui vous donne un lien http://www.zapier.com/?params=test qui vous permet d'effectuer l'action suivante. En effet, dès que vous cliquez sur ce diernier, vous envoyez automatiquement un email à votre collègue. Comment s'appelle ce type de lien ? RE: 
 
@@ -284,3 +308,14 @@ A quoi correspond "AxR858eE" ? RE: [Un mot de passe valide, Un token]
 Vous avez 100€. Vous les prêter et prédisez que la personne ne pourra pas les rembourser. Vous vendez donc cette dette pour 100€ et la personnne devra rembourser dorénavant 100€ + x€ d'intérêt. Comment s'appelle cette technique boursière ?
 Vous empruntez un produit qui coûte 100€ pour 80 car vous êtes certain que le prix va baisser à 80 dans le futur. Le prix ayant baisser à 80€ cinq jours plus tard vous achetez donc effectivement le produit, ayant fait une plus value de 20€. Comment s'appelle cette technique boursière dont Elon Musk ce plaint très souvent ? RE: [short,]
 Vous prêtez 100€ et immédiatement vous divisez cette dette en trois parts de 33.33€ chacunes. Vous vendez ces parts à 50€ (soit 33.33 + 16.67) à votre père, votre cousin et votre soeur pour un total de 150€ soit 50€ de bénéfice. En vendant ces parts vous avez donc transférer la propriété de la dette. Comment s'appelle cette technique de bourse ?
+
+
+Vous vendez des produits directement sur instagram grâce à vos poste. Comment avez-vous implémenter cette fonctionnalité ?
+
+
+Revolut, N26, Stripe et .... Enlevez l'intru RE: Stripe fait du paiement en ligne
+Gucci, H&M, Zara et Primark. Enlevez l'intru RE: Gucci n'est pas une marque fast fashion
+Y combinator, Station F, Euratechnologies et X. Enlevez l'intru
+Windows, Android et OSX. Enlevez l'intru RE: Windows n'est pas un os mobile
+Tesla, BMW, Koenigsegg et Mercedes. Enlevez l'intru RE: Tesla ne fait que de l'électrique
+Uber, Lyft, Lime et X. Enlevez l'intru RE: Lime est le seul à ne pas faire de course avec voiture

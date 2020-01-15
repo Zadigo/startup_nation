@@ -1,0 +1,182 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "reference": "18095cd6221c5abb",
+            "subject": "digital marketing",
+            "question": "On vous donne ceci \"GTM-XXXXX\" a intégrer dans l'entête HTML. De quoi s'agit-il ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Ceci est un tag pour intégrer Google Tag Manager sur un site internet", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 2,
+            "reference": "6d73de7bdfe0986e",
+            "subject": "digital marketing",
+            "question": "Selon-vous à quoi correspond le terme \"acquisition\" dans Google Analytics ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 3,
+            "reference": "415748f67f903f8b",
+            "subject": "digital marketing",
+            "question": "Qu'est-ce que le terme \"conversion\" dans Google Analytics ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 4,
+            "reference": "acf92f085d5a2543",
+            "subject": "digital marketing",
+            "question": "Vous étiez sur http://www.une-adresse.com. En cliquant sur un lien vous vous êtes retrouver sur http://www.une-autre-adresse.com. A quoi correspond la première adresse ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "Lien référent", "score": 20},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 5,
+            "reference": "f6d58eda539c9c01",
+            "subject": "digital marketing",
+            "question": "Si \"Facebook\" est une source, \"social\" est...",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "Un médium", "score": 20}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 6,
+            "reference": "199c5932b01ad645",
+            "subject": "digital marketing",
+            "question": "Si \"social\" est une médium, \"Facebook\" est...",
+            "answers": [
+                {"id": 1, "answer": "Une source", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 7,
+            "reference": "ba16944a82d99605",
+            "subject": "digital marketing",
+            "question": "A quoi correspond le \"?search=\" dans \"http://www.une-adresse.com/?search=\" ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Paramètre de l'url", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 8,
+            "reference": "bf6185912b39271e",
+            "subject": "digital marketing",
+            "question": "Vous êtes sur site e-commerce et vous suivez le parcours suivant \"produits > produit > panier > paiement > page initial\". A quoi correspond ce parcours ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Tunnel de conversion", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 9,
+            "reference": "4999b350b65a33ff",
+            "subject": "digital marketing",
+            "question": "Votre taux de conversion est de -2.5% et on vous demande de l'inverser. Parmis les options suivantes que feriez-vous ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 10,
+            "reference": "c7718211a05451b2",
+            "subject": "digital marketing",
+            "question": "Votre taux d'acquisition est de 2.5% et on vous demande de l'accroitre. Parmis les options suivantes que feriez-vous ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 11,
+            "reference": "b55dce20e2ee8d67",
+            "subject": "digital marketing",
+            "question": "Qu'est-ce que le \"taux de rebond\" dans Google Analytics ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Cela correspond au fait qu'un utilisateur soit tomber sur votre site sans faire aucune interractions avec ce dernier", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 12,
+            "reference": "2c19da44ac77c25f",
+            "subject": "digital marketing",
+            "question": "Un patron vous dit qu'il a un taux de rebond global de 73%. Que lui conseilleriez-vous ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 13,
+            "reference": "a183bc3f2ea04614",
+            "subject": "digital marketing",
+            "question": "Comment appelle-t-on le fait qu'un utilisateur va sur site et en sort immédiatement ?",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "Taux de rebond", "score": 20}
+            ],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 14,
+            "reference": "b681ea6b32e66ef9",
+            "subject": "digital marketing",
+            "question": "Selon-vous quel est la différence entre un \"utilisateur\" et une \"session\" dans Analytics ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 15,
+            "reference": "2127fbe3186e0d1d",
+            "subject": "digital marketing",
+            "question": "A quoi correspond l'élément \"UA-XXXX\" dans un script HTML ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        },
+        {
+            "id": 16,
+            "reference": "175a891ea0a391ea",
+            "subject": "digital marketing",
+            "question": "Qu'est-ce que la longue traine ?",
+            "answers": [],
+            "tag": "digital-marketing"
+        }
+    ]
+}

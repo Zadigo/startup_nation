@@ -1,32 +1,32 @@
 
-# def questions_cache(func):
-#     """A decorator function that returns a cached object 
-#     of the questions in order to create some sort of 
-#     passive memory for the application.
+def questions_cache(func):
+    """A decorator function that returns a cached object 
+    of the questions in order to create some sort of 
+    passive memory for the application.
 
-#     Description
-#     -----------
+    Description
+    -----------
         
-#         @questions_cache
-#         def test():
-#             return questions
+        @questions_cache
+        def test():
+            return questions
 
 
-#     Result
-#     ------
+    Result
+    ------
 
-#     The cache() definition returns the inner array such as:
+        The cache() definition returns the inner array such as:
 
-#         _cache = [
-#             [
-#                 { id: 1, ...}
-#             ]
-#         ]
-#     """
-#     cache = []
+            _cache = [
+                [
+                    { id: 1, ...}
+                ]
+            ]
+    """
+    cache = []
 
-#     def _cache(**kwargs):
-#         questions = func()
-#         cache.append(questions)
-#         return cache[0]
-#     return _cache
+    def _cache(questions):
+        questions = func()
+        cache.append(questions)
+        return cache[0]
+    return _cache

@@ -1,6 +1,28 @@
 """This module regroups a list of definitions and functions useful for
 operating the Startup Nation quizz within a Django environment or not.
 
+Description
+-----------
+
+    The module is composed of x main definitions to help create
+    questions for the application:
+        
+        - Json creator
+        - Create question
+
+    One main definition to open the questions files and retrieve
+    the questions:
+
+        - Questions
+
+    And, finally a different set of definitions to get list of questions
+    in different manners:
+
+        - Group files
+        - Randomized questions
+        - N questions
+        - Each N questions
+
 author: pendenquejohn@gmail.com
 """
 
@@ -15,7 +37,9 @@ try:
     if settings.MEDIA_ROOT:
         QUESTIONS_ROOT = os.path.join(settings.MEDIA_ROOT, 'questions')
 except:
-    QUESTIONS_ROOT = os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    
+    QUESTIONS_ROOT = os.path.join(BASE_DIR, 'data')
 
 # PATH = os.path.join(CURRENT_DIR, 'test.txt')
 
@@ -197,5 +221,5 @@ def n_percent(file_names:list, pcts:list):
     shuffle(questions_list)
     return questions_list
 
-print(n_percent(['digital_marketing', 'social_media'], [10, 10]))
+# print(n_percent(['digital_marketing', 'social_media'], [10, 10]))
 # print(each_n_questions(['digital_marketing', 'social_media'], 1))

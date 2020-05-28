@@ -76,7 +76,7 @@ A quel language correspond cette structure de code :
     <? ... >< ... ?>
 
 A quel language correspond cette structure de code :
-    function (){
+    function () {
         ...
     }
 

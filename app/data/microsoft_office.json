@@ -1,0 +1,324 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "reference": "96ca286decd8ad25",
+            "subject": "microsoft office",
+            "question": "A quoi correspond le terme VBA dans Excel ?",
+            "illustration": false,
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "C'est un language qui permet de contrôler l'ensemble des éléments de l'interface utilisateur", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 2,
+            "reference": "e3f2ecf1fe677275",
+            "subject": "microsoft office",
+            "question": "Votre patron vous dit que la formule ci-dessous vous sera très utile dans votre travail avec Excel. Que fait cette fonction ?",
+            "illustration": "INDEX(... MATCH(...))",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 20},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 3,
+            "reference": "14546917b82c0245",
+            "subject": "microsoft office",
+            "question": "Vous utilisez Excel et vous avez un coups de génie. Vous utilisez la formule ci-dessous. Que fait AGGREGATE ?",
+            "illustration": "AGGREGATE(..., SUM(...), ...)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 4,
+            "reference": "da0fd4c40614e056",
+            "subject": "microsoft office",
+            "question": "Vous êtes sur le point de rendre un travail de groupe. Or, la fonction suivante ROW(A1) ne fonctionne pas correctement. Elle devait vous permettre d'incrémenter de 1, 2, 3 ... 100 sans devoir entrer chaque valeurs individuellement. Que devez-vous faire ?",
+            "illustration": false,
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 20}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 5,
+            "reference": "0ce3b0834d2cbbb1",
+            "subject": "microsoft office",
+            "question": "A quoi peut servir une telle fonction :",
+            "illustration": "CHOOSE(IF(...), ..., ..., ...)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 20},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 6,
+            "reference": "36d50177b4b421b5",
+            "subject": "microsoft office",
+            "question": "Comment interprétez-vous le -1 dans la fonction suivante ?",
+            "illustration": "MATCH(..., ..., -1)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 7,
+            "reference": "b2672ceb14b5a5f7",
+            "subject": "microsoft office",
+            "question": "Dans la liste suivante (1, 2, 3) je souhaite retourner la dernière valeur avec MATCH(...). Que dois-je faire ?",
+            "illustration": false,
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 8,
+            "reference": "04cbaf588d3a9644",
+            "subject": "microsoft office",
+            "question": "Mon conjoint a qui j'ai demandé de l'aide me dit que je dois utiliser la formule suivante dans le cadre de mon travail. Que peut bien faire cette fonction ?",
+            "illustration": "INDIRECT(A1:A10)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 20}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 9,
+            "reference": "3ba619242f6ea255",
+            "subject": "microsoft office",
+            "question": "J'ai une liste (a, a, e) et je souhaiterais obtenir cette liste (TRUE, TRUE, FALSE). Que dois-je faire ?",
+            "illustration": false,
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "(A1:A3=\"a\") puis shift/option + entrée", "score": 20}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 10,
+            "reference": "03e0e2bf23f19ca4",
+            "subject": "microsoft office",
+            "question": "J'ai cette liste (a, a, e) et je souhaiterais obtenir cette liste (TRUE, TRUE, TRUE). Que dois-je faire ?",
+            "illustration": false,
+            "answers": [
+                {"id": 1, "answer": "(A1:A3=\"a\") + (A1:A3=\"e\") puis shift/option + entrée", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 11,
+            "reference": "50969a64c6bec7ac",
+            "subject": "microsoft office",
+            "question": "Que fait les {} dans la formule suivante :",
+            "illustration": "{=SUM(...)}",
+            "answers": [
+                {"id": 1, "answer": "Elle créer une dictionnaire de a valeures", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 12,
+            "reference": "99058f90fcc8a146",
+            "subject": "microsoft office",
+            "question": "Quel est l'équivalent dans Excel de la formule ci-dessous ?",
+            "illustration": "{=SUM((A1:A10 = ...)*(A1:A10))}",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "SUMIF(..., \"= ...\")", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 13,
+            "reference": "e0a5b82d9298186f",
+            "subject": "microsoft office",
+            "question": "Que fait cette formule si on l'utilisait sur \"Anastasia Pouryalov\" ?",
+            "illustration": "MID(..., FIND(\" \", ..., ), FIND(\" \", ..., ) - 1)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "On récupère le prénom Anastasia", "score": 20},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 14,
+            "reference": "07a9582c8e99c22b",
+            "subject": "microsoft office",
+            "question": "Que fait cette formule si on l'utilisait sur \"Anastasia Pouryalov\" ?",
+            "illustration": "LEFT(..., FIND(\" \", ..., ) - 1)",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 15,
+            "reference": "551f2f6cc0417d8d",
+            "subject": "microsoft office",
+            "question": "",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 16,
+            "reference": "9ca0d3ae4bc2744c",
+            "subject": "microsoft office",
+            "question": "Que fait cette formule ((... = ...) * (... = ...)) * (...) si on l'appliquait aux listes suivantes et qu'on obtenait le r\u00e9sultat (78, 98, 54) :",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "Elle multiplie la première colonne par la deuxième. On obtient alors une liste de type (0, 1, 0) que l'on multiplie par la troisième colonne", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 22,
+            "reference": "c9329bf0fc6e8989",
+            "subject": "microsoft office",
+            "question": "SMALL(..., ...) est l'équivalent de...",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 23,
+            "reference": "6ae8e223c12d7c09",
+            "subject": "microsoft office",
+            "question": "Vous avez une liste (1, 2, 3) sur laquelle vous faites SMALL(..., 1). Qu'obtenez-vous ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 24,
+            "reference": "7e39f4c61edf6f3b",
+            "subject": "microsoft office",
+            "question": "Vous avez une liste (1, 2, 3) sur laquelle vous faites LARGE(..., 1). Qu'obtenez-vous ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 25,
+            "reference": "fbf005d1d274e9b4",
+            "subject": "microsoft office",
+            "question": "Vous faites CELL(...) sur une céllule. Quels types d'informations obtenez-vous ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 26,
+            "reference": "af353db052cfcdff",
+            "subject": "microsoft office",
+            "question": "$A$1:$A$1 est-il l'exact équivalent de A1:A1 ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "Vrai", "score": 0},
+                {"id": 2, "answer": "Faux", "score": 20}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 27,
+            "reference": "d0f8073f1307abf0",
+            "subject": "microsoft office",
+            "question": "A quoi peut correspondre une telle formule INDIRECT(\"A\" + \":\" + 1) ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "", "score": 0},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "Elle retourne la valeure de la cellule A1", "score": 20},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        },
+        {
+            "id": 28,
+            "reference": "7bc66d200c302158",
+            "subject": "microsoft office",
+            "question": "Votre patron vous dit que cela ne sert à rien de tirer votre selection vers le bas mais d'utiliser cette formule : ROW($A$1:A1). Que peut bien faire cette formule ?",
+            "illustration": "",
+            "answers": [
+                {"id": 1, "answer": "Elle bloque la partie supérieure de la sélection et incrémente de +1 à chaque fois que l'on tire vers le bas", "score": 20},
+                {"id": 2, "answer": "", "score": 0},
+                {"id": 3, "answer": "", "score": 0},
+                {"id": 4, "answer": "", "score": 0}
+            ],
+            "tag": "microsoft-office"
+        }
+    ]
+}

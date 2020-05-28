@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "id": 20,
+            "reference": "96491d750dc48e78",
+            "subject": "general business knowledge",
+            "question": "Revolut, N26, Stripe et .... Enlevez l'intru RE: Stripe fait du paiement en ligne",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        },
+        {
+            "id": 21,
+            "reference": "a0f5cf0e5ef92d0b",
+            "subject": "general business knowledge",
+            "question": "Gucci, H&M, Zara et Primark. Enlevez l'intru RE: Gucci n'est pas une marque fast fashion",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        },
+        {
+            "id": 22,
+            "reference": "41af17fd95614728",
+            "subject": "general business knowledge",
+            "question": "Y combinator, Station F, Euratechnologies et X. Enlevez l'intru",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        },
+        {
+            "id": 23,
+            "reference": "8d1635415552f326",
+            "subject": "general business knowledge",
+            "question": "Windows, Android et OSX. Enlevez l'intru RE: Windows n'est pas un os mobile",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        },
+        {
+            "id": 24,
+            "reference": "4641fde92cc1f793",
+            "subject": "general business knowledge",
+            "question": "Tesla, BMW, Koenigsegg et Mercedes. Enlevez l'intru RE: Tesla ne fait que de l'\u00e9lectrique",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        },
+        {
+            "id": 25,
+            "reference": "893286cc2ee3205e",
+            "subject": "general business knowledge",
+            "question": "Uber, Lyft, Lime et X. Enlevez l'intru RE: Lime est le seul \u00e0 ne pas faire de course avec voiture",
+            "answers": [],
+            "tag": "general-business-knowledge"
+        }
+    ]
+}

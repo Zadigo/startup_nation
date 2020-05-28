@@ -1,16 +1,28 @@
-Tinder a inventé le... swipe
-Snapchat a inventé... stories
-En quel année Instagram ont-ils copié les stories de Snapchat ?
-Parmis les features suivantes, lesquelles sont des actuelles features des stories Instagram ?
-Qu'est-ce qu'un tweet ?
-Quel est la longueur maximale d'un tweet ?
-Peut-on faire des stories sur YouTube ?
-Peut-on vendre de la marchandise sur YouTube ?
-Comment est-ce les YouTubeurs appellent-ils la marchandise qu'ils mettent en vente sur la plateforme ?
-EnjoyPhoenix est une YouTubeuse et influenceuse. Quel est la différence entre ces deux termes ?
-Qu'est-ce qu'une influenceuse ?
-Vous êtes YouTubeur et vous créer du contenu pour les femmes, 18-35 et qui aiment la mode. Ces critères correspond à votre... cible
-Vous êtes YouTubeur et vous êtes connu pour être spécialiste du maquillage nude. Cela correspond à votre... positionnement
-Vous êtes YouTubeur et par rapport à concurrence, vous proposer du maquillage pour peaux noires et votre vidéo est filmée en pleine nature. Cela correspond à votre... valeure ajoutée
-Si en plus de proposer du maquillage, vous faites des vlogs, cela correspond à votre... offre support
-Dans toute vos vidéo, vous traduisez ce vous dites en texte pour les internationaux. Cela correspond à un service... facilitateur
+A quoi correspond le terme VBA dans Excel ?
+Votre patron vous dit que la formule = INDEX(... MATCH(...)) vous sera très utile dans votre travail avec Excel. Que fait cette fonction ?
+Vous utilisez Excel et vous avez un coups de génie. Vous utilisez AGGREGATE(..., SUM(...), ...). Que fait AGGREGATE ?
+Vous êtes sur le point de rendre un travail en groupe. Or, la fonction suivante ROW(A1) ne fonctionne pas correctement. Elle devait vous permettre d'incrémenter de 1, 2, 3 ... 100 sans devoir entrer chaque valeurs individuellement. Que devez-vous faire ?
+A quoi peut servir une telle fonction CHOOSE(IF(...), ..., ..., ...) ?
+Comment interprétez-vous le -1 dans la fonction MATCH(..., ..., -1) ?
+Dans la liste suivante (1, 2, 3) je souhaite retourner la dernière valeur avec MATCH(). Que dois-je faire ?
+Mon conjoint a qui j'ai demandé de l'aide me dit que je dois utiliser INDIRECT(A1:A10) dans le cadre de mon travail. Que peut bien faire cette fonction ?
+J'ai une liste (a, a, e) et je souhaiterais obtenir cette liste (TRUE, TRUE, FALSE). Que dois-je faire ? RE: =(A1:A3="a")
+A partir de cette dernière liste je souhaiterais obtenir (TRUE, TRUE, TRUE). Que dois-je faire ? = (A1:A3="a") + (A1:A3="e")
+Que fait les {} dans la formule suivante : {=SUM(...)} RE: Elle créer une dictionnaire de a valeures
+Quel est l'équivalent dans Excel de {=SUM((A1:A10 = "...")*(A1:A10))} ? RE: SUMIF(..., "= ...")
+Que fait MID(..., FIND(" ", ..., ), FIND(" ", ..., ) - 1) si on l'utilisait sur "Anastasia Pouryalov" ? RE: On récupère le prénom Anastasia
+Que fait LEFT(..., FIND(" ", ..., ) - 1) si on l'utilisait sur "Anastasia Pouryalov" ?
+
+Que fait cette formule ((... = ...) * (... = ...)) * (...) si on l'appliquait aux listes suivantes et qu'on obtenait le résultat (78, 98, 54) :
+    A   Paris   78
+    B   Londres 98
+    A   Tokyo   54
+RE: Elle multiplie la première colonne par la deuxième. On obtient alors une liste de type (0, 1, 0) que l'on multiplie par la troisième colonne
+
+SMALL(..., ...) est l'équivalent de...
+Vous avez une liste (1, 2, 3) sur laquelle vous faites SMALL(..., 1). Qu'obtenez-vous ?
+Vous avez une liste (1, 2, 3) sur laquelle vous faites LARGE(..., 1). Qu'obtenez-vous ?
+Vous faites CELL(...) sur une céllule. Quels types d'informations obtenez-vous ?
+$A$1:$A$1 est-il l'exact équivalent de A1:A1 ? RE: Faux
+A quoi peut correspondre une telle formule INDIRECT("A" + ":" + 1) ? RE: Elle retourne la valeure de la cellule A1
+Votre patron vous dit que cela ne sert à rien de tirer votre selection vers le bas mais d'utiliser cette formule : ROW($A$1:A1). Que peut bien faire cette formule ? RE: [Elle bloque la partie supérieure de la sélection et incrémente de +1 à chaque fois que l'on tire vers le bas]
